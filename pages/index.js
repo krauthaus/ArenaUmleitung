@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Hier ist leider eine Umleitung!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Bitte nutzt künftig <a href="https://arenauten.at">Arenauten.at</a> 
         </p>
       </main>
 
